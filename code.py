@@ -1,1 +1,1 @@
-print("osito")
+print("OSITO")
